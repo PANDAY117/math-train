@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+}
+
+div {
+    flex: 1;
+    display: flex;
+}
+
+button {
+    height: 100px;
+    width: 100px;
+}
+
+.start-section{
+    height: 100VH;
+    width: 100%;
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+}
+
+.button{
+    width: 30px;
+    height: 140px;
+    font-size: 100px;
+}
+
+.hide{
+    display: none;
+}
